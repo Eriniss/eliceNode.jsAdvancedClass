@@ -1,0 +1,22 @@
+{
+  "name": "simple-board",
+  "version": "0.0.1",
+  "description": "\"CRUD 구현프로젝트\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eriniss/eliceNode.jsAdvancedClass.git"
+  },
+  "author": "HeeSeopJeong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eriniss/eliceNode.jsAdvancedClass/issues"
+  },
+  "homepage": "https://github.com/Eriniss/eliceNode.jsAdvancedClass#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
